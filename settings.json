@@ -5,8 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": {Crown_s1_smp.aternos.me
-    "ip": "slobtest1.aternos.me",
+  "server": {
+    "ip": "Crown_s1_smp.aternos.me",
     "port": 42836,
     "version": "",
     "try-creative": false
