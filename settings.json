@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Herobrain",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {Crown_s1_smp.aternos.me
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port": 42836,
     "version": "",
     "try-creative": false
   },
